@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 Updated: I recently joined **Zhongguancun Academy** as an Assistant Professor and PhD supervisor.  and I am currently recruiting PhD students.  If you have already been admitted to Zhongguancun Academy and are interested in my research areas, please feel free to contact me via email at **kunayumi@163.com** or reach out to me directly on **DingTalk**.
 
 
-My name is Shikun Feng, and I am a fourth-year PhD candidate in the Department of Computer Science at Tsinghua University, under the supervision of Professors [Yanyan Lan](https://yanyanlan.com/) and [Wei-Ying Ma](https://air.tsinghua.edu.cn/en/info/1046/1189.htm). My research interests focus on self-supervised pretraining, multi-modality alignment, and generative models, with applications in AI for Science. Prior to pursuing my PhD, I worked as a senior algorithm engineer at SenseTime.
+My name is Shikun Feng, and I am a fourth-year PhD candidate in the Department of Computer Science at Tsinghua University, under the supervision of Professors [Yanyan Lan](https://yanyanlan.com/) and [Wei-Ying Ma](https://air.tsinghua.edu.cn/en/info/1046/1189.htm). My research interests include **Multimodal Learning**, **Computer Vision**, and **AI for Science**. Prior to pursuing my PhD, I worked as a senior computer vision algorithm engineer at SenseTime.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
